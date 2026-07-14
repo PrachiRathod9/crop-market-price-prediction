@@ -1,0 +1,22 @@
+Crop,State,Month,Rainfall,Temperature,Demand,Price
+Rice,Maharashtra,1,120,25,70,2200
+Rice,Maharashtra,2,130,26,75,2250
+Rice,Maharashtra,3,110,28,80,2300
+Rice,Karnataka,1,115,24,72,2150
+Rice,Karnataka,2,125,26,74,2200
+Wheat,Punjab,1,50,18,80,2400
+Wheat,Punjab,2,55,20,82,2450
+Wheat,Haryana,1,48,19,78,2380
+Wheat,Haryana,2,52,21,81,2430
+Maize,Madhya Pradesh,1,80,24,60,1800
+Maize,Madhya Pradesh,2,85,26,63,1850
+Maize,Bihar,1,82,25,65,1900
+Maize,Bihar,2,88,27,68,1950
+Cotton,Gujarat,1,70,30,75,6200
+Cotton,Gujarat,2,75,31,78,6300
+Cotton,Maharashtra,1,72,29,74,6150
+Cotton,Maharashtra,2,78,32,79,6350
+Sugarcane,Uttar Pradesh,1,95,27,85,340
+Sugarcane,Uttar Pradesh,2,98,28,88,350
+Sugarcane,Maharashtra,1,92,29,84,345
+Sugarcane,Maharashtra,2,96,30,87,355
